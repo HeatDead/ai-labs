@@ -1,0 +1,76 @@
+{
+  "question" : "Лает?",
+  "yes" : {
+    "question" : "Дикое?",
+    "yes" : {
+      "question" : "Волк",
+      "yes" : null,
+      "no" : null,
+      "answer" : true
+    },
+    "no" : {
+      "question" : "Собака",
+      "yes" : null,
+      "no" : null,
+      "answer" : true
+    },
+    "answer" : false
+  },
+  "no" : {
+    "question" : "Маленькое?",
+    "yes" : {
+      "question" : "Плавает?",
+      "yes" : {
+        "question" : "Рыба",
+        "yes" : null,
+        "no" : null,
+        "answer" : true
+      },
+      "no" : {
+        "question" : "Мышь",
+        "yes" : null,
+        "no" : null,
+        "answer" : true
+      },
+      "answer" : false
+    },
+    "no" : {
+      "question" : "Плавает?",
+      "yes" : {
+        "question" : "Очень большое?",
+        "yes" : {
+          "question" : "Кит",
+          "yes" : null,
+          "no" : null,
+          "answer" : true
+        },
+        "no" : {
+          "question" : "Рыба",
+          "yes" : null,
+          "no" : null,
+          "answer" : true
+        },
+        "answer" : false
+      },
+      "no" : {
+        "question" : "Большое?",
+        "yes" : {
+          "question" : "Тигр",
+          "yes" : null,
+          "no" : null,
+          "answer" : true
+        },
+        "no" : {
+          "question" : "Кот",
+          "yes" : null,
+          "no" : null,
+          "answer" : true
+        },
+        "answer" : false
+      },
+      "answer" : false
+    },
+    "answer" : false
+  },
+  "answer" : false
+}
